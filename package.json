@@ -1,0 +1,20 @@
+{
+  "name": "nginx-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lowky/nginx-notebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lowky/nginx-notebook/issues"
+  },
+  "homepage": "https://github.com/Lowky/nginx-notebook#readme"
+}
